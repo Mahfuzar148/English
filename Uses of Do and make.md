@@ -225,6 +225,7 @@
 # 🔷 🎯 Quick Tricks
 
 👉 **DO = Duty / Work**
+
 👉 **MAKE = Create / Result**
 
 ---
